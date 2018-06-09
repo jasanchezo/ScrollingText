@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Monarquía romana</string>
+    <string name="article_subtitle">Nacimiento de Roma</string>
+    <string name="article_text">
+        https://es.wikipedia.org/wiki/Monarqu%C3%ADa_romana
+        \n\n
+        El origen de la ciudad de <b>Roma</b> puede situarse especialmente cerca del monte Palatino, junto al río Tíber, en un punto en el cual existía un vado natural que permitía su cruce y, además, era navegable desde el mar (ubicado a 25 km río abajo) únicamente hasta esa posición. En ese punto el río discurría entre varias colinas excavadas por su cauce, aisladas entre sí por valles que el Tíber inundaba en sus crecidas, lo que convertía la zona en pantanosa, y por lo que la población de agricultores y ganaderos fue en su origen muy reducida.3​
+        \n\n
+        Este punto estratégico presentaba una ubicación fácil de defender respecto a la amplia llanura fértil que rodeaba el lugar, protegido como estaba por el Palatino y las otras colinas que lo rodeaban y, además, era un cruce destacado en las rutas comerciales del Lacio central, y entre Etruria y Campania. Todos estos factores fueron los que a la larga contribuyeron al éxito y a la fortaleza de la ciudad.
+        \n\n
+        El origen étnico de la ciudad hay que remontarlo a la fusión de las tribus latinas de la aldea del Germal (Roma quadrata) con los sabinos del Viminal y el Quirinal, creando así la Liga de Septimontium o Septimoncial (Liga de los siete montes), una confederación religiosa preurbana de clara influencia etrusca, el poder hegemónico de Italia en esta época. El nombre de la ciudad podría remontarse hasta la gens etrusca Ruma, si bien existen otras teorías al respecto.
+    </string>
+</resources>
